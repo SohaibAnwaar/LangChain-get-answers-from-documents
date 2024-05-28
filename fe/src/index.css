@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rpv-search__highlight {
+    outline: 1px dashed red;
+}
