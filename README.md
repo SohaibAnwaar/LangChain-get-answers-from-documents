@@ -32,9 +32,9 @@ python manage.py runserver
 ```
 
 ## Note
-Ensure you have Python and pip installed on your system before starting these steps.
-
+1. Ensure you have Python and pip installed on your system before starting these steps.
+2. Make sure to create `.env` file in the project directory by copying the `env.example` file and replacing your `OPEN AI API KEY`.
 
 ## Step 5: Setup the Frontend:
 use instructions in the link below to setup the Frontend:
-[fe/README.md](fe/README.md)
+[frontend/README.md](frontend/README.md)
